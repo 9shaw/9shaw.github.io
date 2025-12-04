@@ -36,6 +36,7 @@
 - CSS3
 - JavaScript
 - Git版本控制
+- Markdown文档
 
 ## 更新日志
 - 2025-12-04: 项目初始化
