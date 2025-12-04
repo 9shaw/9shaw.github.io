@@ -12,6 +12,8 @@
 1. 克隆项目到本地
 2. 使用浏览器打开index.html
 
+---
+
 ## 贡献指南
 欢迎提交Issue和Pull Request来帮助改进项目。
 
