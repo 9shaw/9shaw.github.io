@@ -4,6 +4,7 @@
 
 ## 使用说明
 打开index.html即可查看平台界面。
+支持所有现代浏览器（Chrome、Firefox、Safari、Edge等）。
 
 ## 安装步骤
 1. 克隆项目到本地
